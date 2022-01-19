@@ -1,0 +1,121 @@
+/* main banner css  */
+header{
+    background: #264653;
+}
+
+.first-paragraph{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.banner h1{
+    color: #FFFFFF;
+}
+.second-paragraph{
+    color: #E0E0E0;
+}
+
+.banner button{
+    width: 168px;
+    height: 44px;
+    background-color: #E76F51;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.modal-text{
+    color: #FFFFFF;
+}
+.modal-body{
+    color: #FFFFFF;
+}
+
+/* featured bikes section css  */
+.featured-bike p{
+    font-size: 14px;
+    color: #E76F51;
+}
+
+.gray-image img{
+    filter: grayscale(100%);
+}
+
+/* client review section css  */
+
+.clients-section h1{
+    color: #0A0826;
+}
+.clients-section h1 span{
+    color: #E76F51;
+}
+.clients img{
+    width: 150px;
+    height: 150px;
+    margin: 20px auto;
+}
+
+.clients:last-child img{
+    border-radius: 50%;
+}
+.clients .card-body .rating{
+    width: 130px;
+    height: 50px;
+    margin: 20px auto;
+}
+.clients .card-body img{
+    width: 130px;
+    height: 50px;
+}
+.clients .name{
+    color: #23A6F0;
+}
+
+.clients .occupation{
+    color: #252B42;
+}
+/* Customer QnA part css */
+
+.qna-section h1{
+    color: #0D0925;
+}
+
+.qna-section span{
+    color: #E76F51;
+}
+
+/* Extra part our other products css  */
+.Other-product-part h2{
+    color: #0D0925;
+}
+
+.Other-product-part span{
+    color: #E76F51;
+}
+
+/* Extra part messeage section css  */
+
+.message-section h3{
+    color: #0D0925;
+}
+
+.message-section span{
+    color: #E76F51;
+}
+
+.message-section label{
+    font-weight: bold;
+    color: #E76F51;
+}
+
+.message-section button{
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+/* footer part css */
+.footer-text{
+    height: 100px;
+    background-color: #0B0D17;
+}
+.footer-text p{
+    color: #FFFFFF;
+}
